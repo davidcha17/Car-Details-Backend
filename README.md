@@ -1,24 +1,7 @@
-# README
+Welcome to the backend of the project Car-Details
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this backend, utilized rails and created accurate custom seed data about
+specific vehicles
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is incomplete, the near future, i'll be adding more seed data and persisting 
+the user's post with likes
