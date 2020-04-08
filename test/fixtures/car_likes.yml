@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  car: one
+  user: one
+  likes: 1
+
+two:
+  car: two
+  user: two
+  likes: 1

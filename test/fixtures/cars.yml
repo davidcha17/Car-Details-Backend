@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  brand: MyString
+  model: MyString
+  MSRP: 1
+  type: 
+  description: MyString
+  MPG: 1
+  0To60: 1
+  topSpeed: 1
+
+two:
+  brand: MyString
+  model: MyString
+  MSRP: 1
+  type: 
+  description: MyString
+  MPG: 1
+  0To60: 1
+  topSpeed: 1
